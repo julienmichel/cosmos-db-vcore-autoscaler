@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "cosmos_db_vcore_autoscaler": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7010",
+      "launchBrowser": false
+    }
+  }
+}
